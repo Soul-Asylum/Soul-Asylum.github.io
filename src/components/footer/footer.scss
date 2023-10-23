@@ -1,0 +1,25 @@
+.Footer {
+    bottom: 0;
+    left: 0;
+    background-color: #e80606;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  
+    .ContactInfo,
+    .Location {
+      flex: 1;
+      text-align: center;
+  
+      h3 {
+        margin-bottom: 10px;
+      }
+  
+      p {
+        margin: 5px 0;
+      }
+    }
+  }
+  
