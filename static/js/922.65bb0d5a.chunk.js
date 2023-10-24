@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_pessoal=self.webpackChunkportfolio_pessoal||[]).push([[922],{922:function(e,s,o){o.r(s);o(791);var r=o(184);s.default=function(e){var s=e.language;return(0,r.jsx)("section",{className:"Works",children:(0,r.jsx)("h2",{children:"portuguese"===s?"Projetos":"Projects"})})}}}]);
+//# sourceMappingURL=922.65bb0d5a.chunk.js.map

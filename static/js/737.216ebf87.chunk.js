@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkportfolio_pessoal=self.webpackChunkportfolio_pessoal||[]).push([[737],{737:function(e,s,u){u.r(s),u.d(s,{default:function(){return n}});u(791);var o=u(184),n=function(e){var s=e.language;return(0,o.jsxs)("section",{className:"About",children:[(0,o.jsx)("h2",{children:"portuguese"===s?"Sobre Mim":"About Me"}),(0,o.jsx)("p",{children:"Mussum Ipsum..."})]})}}}]);
+//# sourceMappingURL=737.216ebf87.chunk.js.map
