@@ -13,7 +13,7 @@ function App() {
   const [language, setLanguage] = useState('portuguese'); 
 
   const handleLanguageChange = (selectedLanguage) => {
-    if (selectedLanguage === 'portuguese' || selectedLanguage === 'english') {
+    if (selectedLanguage === 'portug' || selectedLanguage === 'english') {
       setLanguage(selectedLanguage);
     }
   };  
